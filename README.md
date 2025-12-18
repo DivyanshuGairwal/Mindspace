@@ -4,8 +4,6 @@ Mindspace is a minimal, distraction-free web app designed to help you organize y
 
 Instead of overwhelming dashboards or complex systems, Mindspace focuses on **clarity, intention, and simplicity**.
 
----
-
 ## 🌱 Why Mindspace?
 
 Most productivity or journaling apps are overloaded with features.
@@ -19,8 +17,6 @@ It’s built for:
 
 No noise. No pressure. Just space.
 
----
-
 ## ✨ Core Features
 
 - 🗂️ **Spaces** — organize thoughts into meaningful categories (Personal, Work, Ideas, etc.)
@@ -29,8 +25,6 @@ No noise. No pressure. Just space.
 - 🕒 **Timestamped Entries** — see when thoughts were added
 - 🌙 **Dark, Minimal UI** — designed for calm and focus
 - 💾 **Local Storage** — your thoughts stay on your device
-
----
 
 ## 🛠️ Tech Stack
 
