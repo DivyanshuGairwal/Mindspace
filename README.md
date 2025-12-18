@@ -35,7 +35,6 @@ No noise. No pressure. Just space.
 
 > No frameworks. No libraries. Built from scratch to understand fundamentals.
 
----
 ## 📁 Project Structure
 mindspace/
 │
@@ -45,9 +44,6 @@ mindspace/
 ├── js/
 │ └── script.js
 └── README.md
-
-
----
 
 ## 🧠 Philosophy
 
@@ -59,8 +55,6 @@ It’s about:
 - being honest with yourself
 - creating mental clarity over time
 
----
-
 ## 📌 Future Ideas
 
 - Mood tagging
@@ -69,16 +63,12 @@ It’s about:
 - Export thoughts (JSON / text)
 - Optional password lock
 
----
-
 ## 👤 Author
 
 **Divyanshu Gairwal**
 
 - GitHub: https://github.com/DivyanshuGairwal  
 - LinkedIn: https://www.linkedin.com/in/divyanshu-gairwal-980315299/
-
----
 
 ## 📜 License
 
