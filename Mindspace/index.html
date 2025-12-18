@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mindspace</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header class="app-header">
+            <h1 class="logo">Mindspace</h1>
+            <p class="tagline">Find clarity.</p>
+        </header>
+
+        <section id="view-spaces" class="view-section active">
+            <div id="spaces-grid" class="spaces-grid">
+                <!-- Spaces will be injected here -->
+            </div>
+            <button id="btn-create-space" class="btn-primary">+ Create Space</button>
+        </section>
+
+        <section id="view-space-details" class="view-section hidden">
+            <button id="btn-back" class="btn-text">← Back</button>
+            <div class="space-header">
+                <h2 id="space-title"></h2>
+                <button id="btn-delete-space" class="btn-icon" title="Delete Space">🗑️</button>
+            </div>
+            
+            <div class="goal-container">
+                <label>Current Goal</label>
+                <input type="text" id="space-goal-input" placeholder="Set a main goal..." autocomplete="off">
+            </div>
+
+            <div class="entries-section">
+                <div class="new-entry">
+                    <textarea id="entry-text" rows="2" placeholder="Clear your mind..."></textarea>
+                    <div class="entry-controls">
+                        <select id="entry-tag">
+                            <option value="">No Tag</option>
+                            <option value="Idea">Idea</option>
+                            <option value="Career">Career</option>
+                            <option value="Personal">Personal</option>
+                            <option value="Travel">Travel</option>
+                        </select>
+                        <button id="btn-add-entry" class="btn-small">Add</button>
+                    </div>
+                </div>
+                <div id="entries-list" class="entries-list">
+                    <!-- Entries injected here -->
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- Modal for new space -->
+    <div id="modal-create-space" class="modal hidden">
+        <div class="modal-content">
+            <h3>New Space</h3>
+            <input type="text" id="new-space-name" placeholder="Name (e.g. Career)" autofocus>
+            <div class="modal-actions">
+                <button id="btn-cancel-create" class="btn-text">Cancel</button>
+                <button id="btn-confirm-create" class="btn-primary">Create</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
