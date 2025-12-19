@@ -10,7 +10,7 @@ Mindspace is different.
 
 It’s built for:
 - quick brain dumps
-- intentional reflectio
+- intentional reflection
 - personal clarity
 - quiet moments with yourself
 
@@ -51,7 +51,7 @@ It’s about:
 - slowing down
 - noticing patterns
 - being honest with yourself
-- creating mental clarity over time and timely
+- creating mental clarity over time
 
 ## 📌 Future Ideas
 
