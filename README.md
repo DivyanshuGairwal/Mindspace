@@ -10,7 +10,7 @@ Mindspace is different.
 
 It’s built for:
 - quick brain dumps
-- intentional reflection
+- intentional reflectio
 - personal clarity
 - quiet moments with yourself
 
