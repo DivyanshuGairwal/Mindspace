@@ -5,7 +5,6 @@ Mindspace is a minimal, distraction-free web app designed to help you organize y
 Instead of overwhelming dashboards or complex systems, Mindspace focuses on **clarity, intention, and simplicity**.
 
 ## 🌱 Why Mindspace?
-
 Most productivity or journaling apps are overloaded with features.
 Mindspace is different.
 
@@ -52,7 +51,7 @@ It’s about:
 - slowing down
 - noticing patterns
 - being honest with yourself
-- creating mental clarity over time
+- creating mental clarity over time and timely
 
 ## 📌 Future Ideas
 
