@@ -69,6 +69,6 @@ It’s about:
 - LinkedIn: https://www.linkedin.com/in/divyanshu-gairwal-980315299/
 
 ## 📜 License
-
+yes they gotta do that 
 This project is open-source and free to use for learning and personal growth.
 
