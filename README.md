@@ -16,7 +16,6 @@ It’s built for:
 - quiet moments with yourself
 
 No noise. No pressure. Just space.
-
 ## ✨ Core Features
 
 - 🗂️ **Spaces** — organize thoughts into meaningful categories (Personal, Work, Ideas, etc.)
