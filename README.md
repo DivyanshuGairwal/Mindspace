@@ -13,7 +13,7 @@ It’s built for:
 - intentional reflection
 - personal clarity
 - quiet moments with yourself
-
+- add some new ideas
 No noise. No pressure. Just space.
 ## ✨ Core Features
 
