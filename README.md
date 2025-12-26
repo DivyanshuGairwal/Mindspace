@@ -70,5 +70,5 @@ It’s about:
 
 ## 📜 License
 
-This project is open-source and free to use for learning and personal growth.
+This project is open-source and free to use for learning and personal growth...
 
