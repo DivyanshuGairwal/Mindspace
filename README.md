@@ -1,4 +1,4 @@
-# Mindspace 🧠✨
+# Mindspace 🧠
 
 Mindspace is a minimal, distraction-free web app designed to help you organize your thoughts, track personal goals, and clear your mental space.
 
