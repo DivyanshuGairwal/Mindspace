@@ -26,7 +26,7 @@ No noise. No pressure. Just space.
 
 ## 🛠️ Tech Stack
 
-- **HTML5** — semantic structure
+- **HTML5* — semantic structure
 - **CSS3** — modern dark UI, minimal design
 - **JavaScript (Vanilla)** — state handling & interactions
 - **LocalStorage API** — persistent data without backend
