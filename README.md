@@ -19,7 +19,7 @@ No noise. No pressure. Just space.
 
 - 🗂️ **Spaces** — organize thoughts into meaningful categories (Personal, Work, Ideas, etc.)
 - 🎯 **Current Goal** — set a single focus goal per space
-- 📝 **Quick Thought Capture** — instantly add thoughts without friction
+- 📝 **Quick Thought Capture** — instantly add thoughts without friction   
 - 🕒 **Timestamped Entries** — see when thoughts were added
 - 🌙 **Dark, Minimal UI** — designed for calm and focus
 - 💾 **Local Storage** — your thoughts stay on your device
