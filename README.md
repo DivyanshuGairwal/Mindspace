@@ -41,7 +41,7 @@ mindspace/
 │ └── style.css
 ├── js/
 │ └── script.js
-└── README.md
+└── README.md   
 
 ## 🧠 Philosophy
 
