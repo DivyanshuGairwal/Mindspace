@@ -25,7 +25,7 @@ No noise. No pressure. Just space.
 - 💾 **Local Storage** — your thoughts stay on your device
 
 ## 🛠️ Tech Stack
-
+    
 - **HTML5* — semantic structure
 - **CSS3* — modern dark UI, minimal design
 - **JavaScript (Vanilla)** — state handling & interactions
