@@ -7,7 +7,7 @@ Instead of overwhelming dashboards or complex systems, Mindspace focuses on **cl
 ## 🌱 Why Mindspace?
 Most productivity or journaling apps are overloaded with features.
 Mindspace is different.
-
+ m 
 It’s built for:    
 - quick brain dumps
 - intentional reflection
